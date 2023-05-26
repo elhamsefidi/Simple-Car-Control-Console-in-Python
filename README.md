@@ -1,2 +1,2 @@
-# guess_number
+# Guess_number
 user has 3 chance to choose the right number
